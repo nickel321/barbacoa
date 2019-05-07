@@ -1,6 +1,12 @@
 .header {
   text-align:center;
 }
+body {
+  margin:0px;
+}
+table {
+  border:2px solid red;
+}
 #wrapper {
   display: flex;
   flex-flow: row wrap;
